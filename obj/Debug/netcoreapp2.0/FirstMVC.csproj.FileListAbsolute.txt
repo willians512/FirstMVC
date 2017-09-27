@@ -1,0 +1,10 @@
+D:\MyWorkSpace\VSCProject\FirstMVC\bin\Debug\netcoreapp2.0\FirstMVC.deps.json
+D:\MyWorkSpace\VSCProject\FirstMVC\bin\Debug\netcoreapp2.0\FirstMVC.runtimeconfig.json
+D:\MyWorkSpace\VSCProject\FirstMVC\bin\Debug\netcoreapp2.0\FirstMVC.runtimeconfig.dev.json
+D:\MyWorkSpace\VSCProject\FirstMVC\bin\Debug\netcoreapp2.0\FirstMVC.dll
+D:\MyWorkSpace\VSCProject\FirstMVC\bin\Debug\netcoreapp2.0\FirstMVC.pdb
+D:\MyWorkSpace\VSCProject\FirstMVC\obj\Debug\netcoreapp2.0\FirstMVC.csproj.CoreCompileInputs.cache
+D:\MyWorkSpace\VSCProject\FirstMVC\obj\Debug\netcoreapp2.0\FirstMVC.AssemblyInfoInputs.cache
+D:\MyWorkSpace\VSCProject\FirstMVC\obj\Debug\netcoreapp2.0\FirstMVC.AssemblyInfo.cs
+D:\MyWorkSpace\VSCProject\FirstMVC\obj\Debug\netcoreapp2.0\FirstMVC.dll
+D:\MyWorkSpace\VSCProject\FirstMVC\obj\Debug\netcoreapp2.0\FirstMVC.pdb
